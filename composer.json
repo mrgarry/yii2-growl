@@ -1,5 +1,5 @@
 {
-    "name": "gentumsoft/growl",
+    "name": "mrgarry/growl",
     "description": "Yii2 extension for JQuery Growl plugin",
     "keywords": [
         "yii2",
@@ -15,12 +15,13 @@
             "email": "harijs98@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "gentumsoft\\growl\\": ""
+            "mrgarry\\growl\\": ""
         }
     }
 }
