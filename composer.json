@@ -1,5 +1,5 @@
 {
-    "name": "mrgarry/growl",
+    "name": "gentumsoft/growl",
     "description": "Yii2 extension for JQuery Growl plugin",
     "keywords": [
         "yii2",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mrgarry\\growl\\": ""
+            "gentumsoft\\growl\\": ""
         }
     }
 }
