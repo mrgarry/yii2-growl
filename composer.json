@@ -1,5 +1,5 @@
 {
-    "name": "gentumsoft/yii2-growl",
+    "name": "omj/yii2-growl",
     "description": "Yii2 extension for JQuery Growl plugin",
     "keywords": [
         "yii2",
@@ -11,17 +11,16 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Harijs Puga",
-            "email": "harijs98@gmail.com"
+            "name": "Harijs",
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "gentumsoft\\yii2-growl\\": ""
+            "omj\\yii2-growl\\": ""
         }
     }
 }
