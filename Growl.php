@@ -6,7 +6,7 @@
  * @license MIT
  */
 
-namespace gentumsoft\growl;
+namespace omj\growl;
 
 use Yii;
 use yii\base\Widget;
