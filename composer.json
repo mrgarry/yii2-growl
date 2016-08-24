@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "omj\\yii2-growl\\": ""
+            "omj\\growl\\": ""
         }
     }
 }
