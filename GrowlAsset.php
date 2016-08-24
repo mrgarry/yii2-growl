@@ -5,7 +5,7 @@
  * @license MIT
  */
 
-namespace gentumsoft\growl;
+namespace omj\growl;
 
 use yii\web\AssetBundle;
 
